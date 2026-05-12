@@ -2,8 +2,8 @@
 
 **The fastest way to organize your VJ library.** A clip tagging and metadata assistant built for [Resolume](https://resolume.com) workflows.
 
-🌐 **Website:** [stagehand-vj-site.fyodor-krasniy.workers.dev](https://stagehand-vj-site.fyodor-krasniy.workers.dev)
-📥 **Download the demo:** [Get the free demo](https://stagehand-vj-site.fyodor-krasniy.workers.dev/#download)
+🌐 **Website:** [stagehandvj.com](https://stagehandvj.com)
+📥 **Download the demo:** [Get the free demo](https://stagehandvj.com/#download)
 🐛 **Report a bug:** [New bug report](../../issues/new?template=bug_report.md)
 💡 **Request a feature:** [New feature request](../../issues/new?template=feature_request.md)
 
@@ -24,7 +24,7 @@ Stagehand helps VJs organize large folders of loops, clips, DXV/MOV files, image
 - Pull clips back from Resolume via the REST API to edit and re-tag
 - Local database — no cloud, no account
 
-See the [website](https://stagehand-vj-site.fyodor-krasniy.workers.dev) for the full feature list and screenshots.
+See the [website](https://stagehandvj.com) for the full feature list and screenshots.
 
 ---
 

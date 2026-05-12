@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
   - name: Stagehand VJ website
-    url: https://stagehand-vj-site.fyodor-krasniy.workers.dev
+    url: https://stagehandvj.com
     about: Features, screenshots, pricing, and the demo download.
   - name: Beta access signup
-    url: https://stagehand-vj-site.fyodor-krasniy.workers.dev/#beta-signup
+    url: https://stagehandvj.com/#beta-signup
     about: Get notified when paid beta access opens.
